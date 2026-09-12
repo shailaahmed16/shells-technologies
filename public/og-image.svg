@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#050507"/>
+  <circle cx="930" cy="120" r="260" fill="#8b5cf6" opacity=".18"/>
+  <circle cx="1040" cy="470" r="220" fill="#6d28d9" opacity=".14"/>
+  <text x="90" y="260" fill="white" font-size="72" font-family="Arial" font-weight="700">Shells Technologies</text>
+  <text x="94" y="335" fill="#c4b5fd" font-size="32" font-family="Arial">Build Bold. Ship Fast.</text>
+  <text x="94" y="390" fill="#a4a1b2" font-size="22" font-family="Arial">Remote IT • Software • Product Design</text>
+</svg>
