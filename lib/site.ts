@@ -1,4 +1,4 @@
-// Site-wide configuration: update NEXT_PUBLIC_SITE_URL after Vercel creates your project URL.
+// Site-wide configuration for SEO and deployment.
 export const siteConfig = {
   name: "Shells Technologies",
   url:
