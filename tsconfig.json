@@ -13,12 +13,10 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
-
     "baseUrl": ".",
     "paths": {
       "@/*": ["./*"]
     },
-
     "plugins": [
       {
         "name": "next"
@@ -33,3 +31,5 @@
   ],
   "exclude": ["node_modules"]
 }
+
+]]
